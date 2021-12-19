@@ -65,7 +65,7 @@ Coming soon™️ -->
 
 ![lightcmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightcmd&show_icons=true&theme=algolia)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightcmd)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightcmd&theme=algolia)
 
 [website]: Coming%20Soon
 [currentproject]: https://github.com/Team-TEB/pinkfredor-web-app
