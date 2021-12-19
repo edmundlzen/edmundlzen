@@ -61,6 +61,9 @@ Coming soon™️ -->
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#12](https://github.com/Team-TEB/pinkfredor-web-app/pull/12) in [Team-TEB/pinkfredor-web-app](https://github.com/Team-TEB/pinkfredor-web-app)
+2. 🗣 Commented on [#14551](https://github.com/expo/expo/issues/14551) in [expo/expo](https://github.com/expo/expo)
+3. 💪 Opened PR [#11](https://github.com/Team-TEB/pinkfredor-web-app/pull/11) in [Team-TEB/pinkfredor-web-app](https://github.com/Team-TEB/pinkfredor-web-app)
 <!--END_SECTION:activity-->
 
 ![lightcmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightcmd&show_icons=true&theme=algolia)
