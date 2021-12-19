@@ -66,12 +66,7 @@ Coming soon™️ -->
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="lightcmd's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lightcmd&show_icons=true&hide_border=true" />
-
-</details>
+![lightcmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightcmd&show_icons=true&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightcmd)
 
