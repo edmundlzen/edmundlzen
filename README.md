@@ -2,7 +2,7 @@
 
 ![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue)
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](twitlink) -->
+---
 
 ## I'm a student learning development!
 
@@ -16,7 +16,8 @@ Coming soon™️
 [<img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-<br />
+
+---
 
 ### Languages I use:
 
@@ -61,10 +62,13 @@ Coming soon™️ -->
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#12](https://github.com/Team-TEB/pinkfredor-web-app/pull/12) in [Team-TEB/pinkfredor-web-app](https://github.com/Team-TEB/pinkfredor-web-app)
 2. 🗣 Commented on [#14551](https://github.com/expo/expo/issues/14551) in [expo/expo](https://github.com/expo/expo)
 3. 💪 Opened PR [#11](https://github.com/Team-TEB/pinkfredor-web-app/pull/11) in [Team-TEB/pinkfredor-web-app](https://github.com/Team-TEB/pinkfredor-web-app)
-<!--END_SECTION:activity-->
+ <!--END_SECTION:activity-->
+
+---
 
 ![lightcmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightcmd&show_icons=true&theme=algolia&custom_title=My%20GitHub%20Stats)
 
