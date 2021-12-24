@@ -1,4 +1,4 @@
-### Hi there, I'm Edmund 👋
+### Hi there, I'm Edmund 😀
 
 ![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue)
 
