@@ -70,9 +70,9 @@ Coming soon™️ -->
 
 ---
 
-![lightcmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightcmd&show_icons=true&theme=algolia&custom_title=My%20GitHub%20Stats)
+![lightcmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmundlzen&show_icons=true&theme=algolia&custom_title=My%20GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightcmd&theme=algolia&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmundlzen&theme=algolia&langs_count=10)
 
 [website]: Coming%20Soon
 [currentproject]: https://github.com/Team-TEB/pinkfredor-web-app
