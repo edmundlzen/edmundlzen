@@ -6,7 +6,7 @@
 
 ---
 
-## I'm a student learning development!
+## I'm a student learning software development!
 
 -   📻 Currently collaborating on a web project: [Pinkfredor web app][currentproject]!
 -   🥅 2022 Goals: Learn more languages and improve my current skillset.
