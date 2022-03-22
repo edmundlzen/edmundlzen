@@ -63,8 +63,8 @@ Coming soon™️ -->
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/wenyan-lang/wiki/pull/4) in [wenyan-lang/wiki](https://github.com/wenyan-lang/wiki)
-2. 💪 Opened PR [#12](https://github.com/Team-TEB/pinkfredor-web-app/pull/12) in [Team-TEB/pinkfredor-web-app](https://github.com/Team-TEB/pinkfredor-web-app)
+1. 💪 Opened PR [#1071](https://github.com/mantinedev/mantine/pull/1071) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. 💪 Opened PR [#4](https://github.com/wenyan-lang/wiki/pull/4) in [wenyan-lang/wiki](https://github.com/wenyan-lang/wiki)
 3. 🗣 Commented on [#14551](https://github.com/expo/expo/issues/14551) in [expo/expo](https://github.com/expo/expo)
  <!--END_SECTION:activity-->
 
