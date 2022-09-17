@@ -63,9 +63,9 @@ Coming soon™️ -->
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1071](https://github.com/mantinedev/mantine/pull/1071) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
-2. 💪 Opened PR [#4](https://github.com/wenyan-lang/wiki/pull/4) in [wenyan-lang/wiki](https://github.com/wenyan-lang/wiki)
-3. 🗣 Commented on [#14551](https://github.com/expo/expo/issues/14551) in [expo/expo](https://github.com/expo/expo)
+1. 🗣 Commented on [#381](https://github.com/hackclub/sprig/issues/381) in [hackclub/sprig](https://github.com/hackclub/sprig)
+2. 🗣 Commented on [#381](https://github.com/hackclub/sprig/issues/381) in [hackclub/sprig](https://github.com/hackclub/sprig)
+3. 🗣 Commented on [#381](https://github.com/hackclub/sprig/issues/381) in [hackclub/sprig](https://github.com/hackclub/sprig)
  <!--END_SECTION:activity-->
 
 ---
