@@ -63,9 +63,9 @@ Coming soon™️ -->
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#636](https://github.com/hackclub/sprig/pull/636) in [hackclub/sprig](https://github.com/hackclub/sprig)
-2. 🗣 Commented on [#381](https://github.com/hackclub/sprig/issues/381) in [hackclub/sprig](https://github.com/hackclub/sprig)
-3. 🗣 Commented on [#381](https://github.com/hackclub/sprig/issues/381) in [hackclub/sprig](https://github.com/hackclub/sprig)
+1. ❌ Closed PR [#158](https://github.com/hackclub/winter/pull/158) in [hackclub/winter](https://github.com/hackclub/winter)
+2. 🗣 Commented on [#158](https://github.com/hackclub/winter/issues/158) in [hackclub/winter](https://github.com/hackclub/winter)
+3. 💪 Opened PR [#158](https://github.com/hackclub/winter/pull/158) in [hackclub/winter](https://github.com/hackclub/winter)
  <!--END_SECTION:activity-->
 
 ---
