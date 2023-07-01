@@ -63,8 +63,8 @@ Coming soon™️ -->
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#163](https://github.com/hackclub/winter/issues/163) in [hackclub/winter](https://github.com/hackclub/winter)
-2. 🗣 Commented on [#163](https://github.com/hackclub/winter/issues/163) in [hackclub/winter](https://github.com/hackclub/winter)
+1. 🗣 Commented on [#29](https://github.com/hackclub/Jams/issues/29) in [hackclub/Jams](https://github.com/hackclub/Jams)
+2. 💪 Opened PR [#29](https://github.com/hackclub/Jams/pull/29) in [hackclub/Jams](https://github.com/hackclub/Jams)
 3. 🗣 Commented on [#163](https://github.com/hackclub/winter/issues/163) in [hackclub/winter](https://github.com/hackclub/winter)
  <!--END_SECTION:activity-->
 
