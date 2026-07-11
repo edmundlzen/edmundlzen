@@ -63,8 +63,8 @@ Coming soon™️ -->
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#11](https://github.com/KakitanganDev/support-eng-job/pull/11) in [KakitanganDev/support-eng-job](https://github.com/KakitanganDev/support-eng-job)
-2. 🗣 Commented on [#29](https://github.com/hackclub/Jams/pull/29#issuecomment-1614880154) in [hackclub/Jams](https://github.com/hackclub/Jams)
+1. 🎉 Merged PR [#1](https://github.com/edmundlzen/ed-portfolio-next/pull/1) in [edmundlzen/ed-portfolio-next](https://github.com/edmundlzen/ed-portfolio-next)
+2. 💪 Opened PR [#1](https://github.com/edmundlzen/ed-portfolio-next/pull/1) in [edmundlzen/ed-portfolio-next](https://github.com/edmundlzen/ed-portfolio-next)
 3. 💪 Opened PR [#29](https://github.com/hackclub/Jams/pull/29) in [hackclub/Jams](https://github.com/hackclub/Jams)
  <!--END_SECTION:activity-->
 
