@@ -34,19 +34,19 @@
 ### stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-BFE3F7?style=for-the-badge&logo=typescript&logoColor=7A5C45" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-BFE3F7?style=for-the-badge&logo=nodedotjs&logoColor=7A5C45" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-BFE3F7?style=for-the-badge&logo=python&logoColor=7A5C45" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-BFE3F7?style=for-the-badge&logo=dotnet&logoColor=7A5C45" alt="C#" />
-  <img src="https://img.shields.io/badge/React-BFE3F7?style=for-the-badge&logo=react&logoColor=7A5C45" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-BFE3F7?style=for-the-badge&logo=nextdotjs&logoColor=7A5C45" alt="Next.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-BFE3F7?style=for-the-badge&logo=postgresql&logoColor=7A5C45" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-BFE3F7?style=for-the-badge&logo=supabase&logoColor=7A5C45" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MongoDB-BFE3F7?style=for-the-badge&logo=mongodb&logoColor=7A5C45" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-BFE3F7?style=for-the-badge&logo=sqlite&logoColor=7A5C45" alt="SQLite" />
-  <img src="https://img.shields.io/badge/PM2-BFE3F7?style=for-the-badge&logo=pm2&logoColor=7A5C45" alt="PM2" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-BFE3F7?style=for-the-badge&logo=githubactions&logoColor=7A5C45" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-BFE3F7?style=for-the-badge&logo=vercel&logoColor=7A5C45" alt="Vercel" />
+  <img src="https://img.shields.io/badge/TypeScript-FFF7EC?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-FFF7EC?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-FFF7EC?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-FFF7EC?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="C#" />
+  <img src="https://img.shields.io/badge/React-FFF7EC?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-FFF7EC?style=for-the-badge&logo=nextdotjs&logoColor=000000" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFF7EC?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-FFF7EC?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
+  <img src="https://img.shields.io/badge/MongoDB-FFF7EC?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-FFF7EC?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PM2-FFF7EC?style=for-the-badge&logo=pm2&logoColor=2B037A" alt="PM2" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-FFF7EC?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-FFF7EC?style=for-the-badge&logo=vercel&logoColor=000000" alt="Vercel" />
 </p>
 
 ### some public stuff
