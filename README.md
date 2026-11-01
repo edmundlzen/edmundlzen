@@ -1,78 +1,58 @@
-### Hi there, I'm Edmund
+<div align="center">
+  <img src="https://log.edmundlzen.dev/stickers/cinnamoroll/c38.png" height="110" alt="" />
 
-![Website](https://img.shields.io/badge/Website-Coming%20Soon-blue)
+  <h3>hi, i'm edmund</h3>
 
-<!-- TODO: Put socials here -->
+  <p>backend &amp; full-stack dev from johor, malaysia (gmt+8)<br />mostly node.js, typescript and python</p>
 
----
-
-## I'm a student learning software development!
-
--   📻 Currently collaborating on a web project: [Pinkfredor web app][currentproject]!
--   🥅 2022 Goals: Learn more languages and improve my current skillset.
-
-<!-- ### My socials:
-Coming soon™️
-[<img align="left" alt="My personal site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="My youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
-
----
-
-### Languages I use:
-
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="C Sharp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+  <a href="https://edmundlzen.dev"><img src="https://img.shields.io/badge/website-9FD3F0?style=for-the-badge&logo=googlechrome&logoColor=7A5C45" alt="website" /></a>
+  <a href="https://edmundlzen.dev/resume"><img src="https://img.shields.io/badge/resume-9FD3F0?style=for-the-badge&logo=readdotcv&logoColor=7A5C45" alt="resume" /></a>
+  <a href="https://log.edmundlzen.dev"><img src="https://img.shields.io/badge/log-9FD3F0?style=for-the-badge&logo=bookstack&logoColor=7A5C45" alt="log" /></a>
+  <a href="https://www.linkedin.com/in/edmundlzen"><img src="https://img.shields.io/badge/linkedin-9FD3F0?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjIyIiBoZWlnaHQ9IjIyIiByeD0iNCIgZmlsbD0iIzdBNUM0NSIvPjxyZWN0IHg9IjUuNSIgeT0iOS41IiB3aWR0aD0iMyIgaGVpZ2h0PSI5IiBmaWxsPSIjZmZmIi8%2BPGNpcmNsZSBjeD0iNyIgY3k9IjYuNSIgcj0iMS44IiBmaWxsPSIjZmZmIi8%2BPHBhdGggZD0iTTEwLjggOS41aDIuOXYxLjNjLjUtLjkgMS42LTEuNiAzLTEuNiAyLjQgMCAzLjMgMS41IDMuMyA0djUuM2gtM3YtNC43YzAtMS4yLS40LTItMS40LTItMS4xIDAtMS44LjgtMS44IDIuMXY0LjZoLTN6IiBmaWxsPSIjZmZmIi8%2BPC9zdmc%2B" alt="linkedin" /></a>
+  <a href="mailto:edmundlzen@gmail.com"><img src="https://img.shields.io/badge/email-9FD3F0?style=for-the-badge&logo=gmail&logoColor=7A5C45" alt="email" /></a>
+</div>
 
 <br />
 
-<br />
+<img src="https://log.edmundlzen.dev/stickers/cinnamoroll/c11.png" height="95" align="right" alt="" />
 
-### Tools I use:
+### about me
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" />
-<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
-<img align="left" alt="Webstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/71/WebStorm_Icon.png" />
-<img align="left" alt="Rider" width="26px" src="https://www.nicepng.com/png/full/251-2519403_but-if-you-have-a-visual-studio-background.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Android_Studio_Icon_%282014-2019%29.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="GitHub Desktop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unity" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-png-transparent.png" />
-<img align="left" alt="Replit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1200px-Repl.it_logo.svg.png" />
+- been building stuff since 2020, usually as the only dev on the project
+- currently studying computer science at uthm
+- i prefer working async, just leave me a message and i'll get to it
+- i speak english, mandarin and malay
 
-<br />
+<img src="https://log.edmundlzen.dev/stickers/cinnamoroll/c24.png" height="95" align="right" alt="" />
 
-<br />
+### what i've been building
 
-<!-- ### 📕 Latest Blog Posts
-Coming soon™️ -->
+- a web3 analytics platform at infutro. i handle the whole thing solo, frontend and backend. it pulls on-chain data from ethereum, bnb chain, polygon, arbitrum, solana and hyperliquid, decodes it and saves it, plus dex adapters for uniswap and pancakeswap
+- my own futures trading system. ml research in python, live execution through a c# ninjatrader add-on. it's private but i'm happy to show it if you ask
+- a bunch of telegram bots. the biggest one was a causeway bus ticket notifier that hit 7,000+ users back in 2022, all word of mouth
 
----
+### stack
 
-### :zap: Recent GitHub Activity
+<img src="https://img.shields.io/badge/TypeScript-BFE3F7?style=for-the-badge&logo=typescript&logoColor=7A5C45" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-BFE3F7?style=for-the-badge&logo=nodedotjs&logoColor=7A5C45" alt="Node.js" />
+<img src="https://img.shields.io/badge/Python-BFE3F7?style=for-the-badge&logo=python&logoColor=7A5C45" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-BFE3F7?style=for-the-badge&logo=dotnet&logoColor=7A5C45" alt="C#" />
+<img src="https://img.shields.io/badge/React-BFE3F7?style=for-the-badge&logo=react&logoColor=7A5C45" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-BFE3F7?style=for-the-badge&logo=nextdotjs&logoColor=7A5C45" alt="Next.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-BFE3F7?style=for-the-badge&logo=postgresql&logoColor=7A5C45" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Supabase-BFE3F7?style=for-the-badge&logo=supabase&logoColor=7A5C45" alt="Supabase" />
+<img src="https://img.shields.io/badge/MongoDB-BFE3F7?style=for-the-badge&logo=mongodb&logoColor=7A5C45" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQLite-BFE3F7?style=for-the-badge&logo=sqlite&logoColor=7A5C45" alt="SQLite" />
+<img src="https://img.shields.io/badge/PM2-BFE3F7?style=for-the-badge&logo=pm2&logoColor=7A5C45" alt="PM2" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-BFE3F7?style=for-the-badge&logo=githubactions&logoColor=7A5C45" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Vercel-BFE3F7?style=for-the-badge&logo=vercel&logoColor=7A5C45" alt="Vercel" />
 
-<!--START_SECTION:activity-->
+### some public stuff
 
-1. 🎉 Merged PR [#1](https://github.com/edmundlzen/ed-portfolio-next/pull/1) in [edmundlzen/ed-portfolio-next](https://github.com/edmundlzen/ed-portfolio-next)
-2. 💪 Opened PR [#1](https://github.com/edmundlzen/ed-portfolio-next/pull/1) in [edmundlzen/ed-portfolio-next](https://github.com/edmundlzen/ed-portfolio-next)
-3. 💪 Opened PR [#29](https://github.com/hackclub/Jams/pull/29) in [hackclub/Jams](https://github.com/hackclub/Jams)
- <!--END_SECTION:activity-->
+- [envio-poc](https://github.com/edmundlzen/envio-poc) - indexes uniswap v3 factory events in real time (postgres, graphql, webhooks)
+- [hyperliquid-poc](https://github.com/edmundlzen/hyperliquid-poc) - tracks hyperliquid positions
+- [wattwise](https://github.com/edmundlzen/wattwise) - energy monitoring saas demo with next.js 16, prisma and playwright
 
----
-
-![lightcmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=edmundlzen&show_icons=true&theme=algolia&custom_title=My%20GitHub%20Stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmundlzen&theme=algolia&langs_count=10)
-
-[website]: Coming%20Soon
-[currentproject]: https://github.com/Team-TEB/pinkfredor-web-app
+<div align="center">
+  <img src="https://log.edmundlzen.dev/stickers/cinnamoroll/c10.png" height="80" alt="" />
+</div>
